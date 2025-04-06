@@ -13,7 +13,7 @@ const header = () => {
           <Text>Almaash Alam</Text>
         </View>
       </View>
-      <FontAwesome size={23} name="bell" color={"black"} />
+      <FontAwesome size={23} name="bell-o" color={"black"} solid={false}/>
     </View>
   );
 };
